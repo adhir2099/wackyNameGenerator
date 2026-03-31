@@ -13,7 +13,7 @@
 ## Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,typescriptjavascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </p>
 
