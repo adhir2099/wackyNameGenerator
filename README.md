@@ -5,7 +5,7 @@
 
 ## Demo URL
 <p align="left">
-  <a href="" target="_blank">
+  <a href="https://adhir2099.github.io/wackyNameGenerator/" target="_blank">
     👉<b>Visit demo here</b>
   </a>
 </p>
