@@ -1,5 +1,8 @@
 <h1 align="center"> WACKY NAME GENERATOR</h1>
 
+# Description
+<p>Tired of thinking about the most difficult thing in the universe? Yes, you guessed it: naming</p>
+
 ## Demo URL
 <p align="left">
   <a href="" target="_blank">
@@ -18,7 +21,7 @@
 <p>Clone the repository</p>
 
 ```bash
-git clone https://github.com/adhir2099/poke-dex-app.git
+git clone https://github.com/adhir2099/wackyNameGenerator
 ```
 **Running the Project**
 <p>Head to it</p>
@@ -26,7 +29,7 @@ git clone https://github.com/adhir2099/poke-dex-app.git
 
 # 🔋Features
 
-👉 **Name dropdown lenght**: 3 to 9 letters name generator
+👉 **Name lenght**: 3 to 9 letters name generator
 
 👉 **Responsive**
 
