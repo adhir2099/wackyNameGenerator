@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wacky Name Generator</title>
+<link href="https://fonts.googleapis.com/css2?family=Boogaloo&family=Fredoka+One&family=Nunito:wght@400;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<h1><span>WACKY </span>NAME GENERATOR</h1>
+
+<div class="controls">
+  <label for="lengthSelect">Name length:</label>
+  <select id="lengthSelect">
+    <option value="3">3 letters</option>
+    <option value="4" selected>4 letters</option>
+    <option value="5">5 letters</option>
+    <option value="6">6 letters</option>
+    <option value="7">7 letters</option>
+    <option value="8">8 letters</option>
+    <option value="9">9 letters</option>
+  </select>
+</div>
+
+<div class="machine-wrap">
+  <div class="machine">
+    <div class="machine-top">
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+    </div>
+
+    <div class="lights-row" id="lightsRow"></div>
+
+    <div class="screen-area">
+      <div class="payline"></div>
+      <div class="reels" id="reels"></div>
+    </div>
+
+    <div class="buttons-bar" id="btnsBar"></div>
+
+    <!-- Side arm -->
+    <div class="arm-wrap" id="armWrap" title="Pull to spin!">
+      <div class="arm-ball"></div>
+      <div class="arm-shaft"></div>
+    </div>
+  </div>
+
+  <button class="spin-btn" id="spinBtn">🎲 SPIN!</button>
+  <div class="result-display" id="result"></div>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
